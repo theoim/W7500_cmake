@@ -1,0 +1,4 @@
+add_subdirectory(ioLibrary)
+add_subdirectory(Libraries)
+add_subdirectory(Projects)
+add_subdirectory(Utilities)

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "w7500x_gpio.h": "c",
+        "w7500x.h": "c",
+        "core_cm0.h": "c",
+        "system_w7500x.h": "c"
+    },
+    "cmake.generator": "Unix Makefiles"
+}
